@@ -1,5 +1,5 @@
 # 👋 Cześć!  
-Wspieranie osób bez doświadczenia w świecie IT** oraz pomaganie im w stawianiu pierwszych kroków w technologii.  
+Moim celem jest ułatwienie startu w IT osobom, które dopiero zaczynają swoją drogę w świecie technologii.
 
 ## 🌍 O mnie  
 - 💡 Wierzę, że każdy może odnaleźć swoje miejsce w IT, niezależnie od punktu startowego.  
